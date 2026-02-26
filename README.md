@@ -12,3 +12,5 @@ penambahan baris baru di readme
 penambahan baris baru lagi.....
 
 penambahan baris baru di hari kamis
+
+penambahan new line kamiz
